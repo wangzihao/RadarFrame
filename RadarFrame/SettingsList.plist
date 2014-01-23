@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>m_name</key>
+		<string>通用设置</string>
+		<key>d_name</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>推送通知</string>
+				<key>url</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>url设置</string>
+				<key>url</key>
+				<string>UrlViewController</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>m_name</key>
+		<string>检查更新</string>
+		<key>url</key>
+		<string>UpdateViewController</string>
+	</dict>
+	<dict>
+		<key>m_name</key>
+		<string>更多</string>
+		<key>d_name</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>关于</string>
+				<key>url</key>
+				<string>AboutController</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>用户反馈</string>
+				<key>url</key>
+				<string>ajustViewController</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>帮助</string>
+				<key>url</key>
+				<string>HelpViewController</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>评价women</string>
+		<key>url</key>
+		<string>evaluateViewController</string>
+	</dict>
+</array>
+</plist>
